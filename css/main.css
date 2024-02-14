@@ -1189,7 +1189,6 @@ section {
 
 @media (min-width: 991px) {
   .about .our-story {
-    padding-right: 35%;
   }
 }
 
@@ -1246,12 +1245,11 @@ section {
 }
 
 .about .about-img {
-  min-height: 600px;
   background-size: cover;
   background-position: center;
 }
 
-@media (min-width: 992px) {
+@media () {
   .about .about-img {
     position: absolute;
     top: 0;
