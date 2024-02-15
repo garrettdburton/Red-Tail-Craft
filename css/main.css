@@ -255,8 +255,10 @@ section {
 }
 
 .header .logo img {
-  max-height: 40px;
+  max-height: 85px;
   margin-right: 6px;
+  background: rgba(255, 255, 255, 0.75)
+
 }
 
 .header .logo h1 {
